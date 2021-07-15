@@ -5,7 +5,7 @@ In my free time I occasionally create side projects or test new ideas, and am ho
 
 
 
-Feel free to take a look at anything that catches your eye
+Feel free to take a look around :)
 
 <!---
 Mucchan-ko/Mucchan-ko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
